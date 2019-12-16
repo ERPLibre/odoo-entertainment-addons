@@ -22,4 +22,7 @@
     ],
     'installable': True,
     'auto_install': True,
+    'demo': [
+        'demo/artist.xml',
+    ]
 }
